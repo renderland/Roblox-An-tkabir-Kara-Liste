@@ -1,4 +1,30 @@
 ╔════════════════════════════════════════════════════════════════╗
+║              Anıtkabir Tugayı Kara Liste Hakkında              ║
+╚════════════════════════════════════════════════════════════════╝
+
+  Anıtkabir Tugayı Kara Liste, topluluğumuzun güvenliğini ve huzurunu sağlamak amacıyla 
+  oluşturulmuş özel bir önlemdir. 
+
+  Bu listedeki kişilerle iletişimde bulunmak, topluluk normlarına aykırı davranışlara ve 
+  olumsuz durumlara neden olabilir. 
+
+  Lütfen bu kişilerle herhangi bir iletişime geçmekten kaçının ve topluluk kurallarımıza 
+  saygı gösterin!
+
+
+
+╔════════════════════════════════════════════════════════════════╗
+║                 ARADIĞINIZ ÖGEYİ NASIL BULURSUNUZ?             ║
+╚════════════════════════════════════════════════════════════════╝
+
+1- Tarayıcınızda bulunan sayfada, "Ctrl + F" tuşlarına basarak arama çubuğunu açabilirsiniz.
+2- Açılan arama çubuğuna aramak istediğiniz kişinin adını veya grubun adını girebilirsiniz.
+3- Arama sonuçları sizi doğrudan aradığınız öğeye yönlendirecektir. Liste içinde ilgili kişiyi veya gruptan birini 
+   bulabilirsiniz.
+
+
+
+╔════════════════════════════════════════════════════════════════╗
 ║                      KARA LİSTE GRUPLAR                        ║
 ╚════════════════════════════════════════════════════════════════╝
 
@@ -10,6 +36,8 @@
 - 12. Anıtkabir Tugayı
 - | MİT | Milli İstihbarat Teşkilatı > S4rcues
 - Özel Kuvvetler Komutanlığı (Discord Sunucusu) > eziciefe_6 (1154064460370161726)
+
+
 
 ╔════════════════════════════════════════════════════════════════╗
 ║                      KARA LİSTE KİŞİLER                        ║
