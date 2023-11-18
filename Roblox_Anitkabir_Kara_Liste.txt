@@ -28,9 +28,6 @@
 ║                      KARA LİSTE GRUPLAR                        ║
 ╚════════════════════════════════════════════════════════════════╝
 
-- Turkish Armed Forces [TAF]
-- Türk Polis Teşkilatı [TPT]
-- |THA| TURKISH ARMED FORCES
 - 71.Anıtkabir Tugayı
 - |PAT| Polis Akademisi Teşkilatı
 - 12. Anıtkabir Tugayı
