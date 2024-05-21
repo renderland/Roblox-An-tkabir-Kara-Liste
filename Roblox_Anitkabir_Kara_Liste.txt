@@ -29,11 +29,11 @@
 ║                      KARA LİSTE GRUPLAR                        ║
 ╚════════════════════════════════════════════════════════════════╝
 
-- 71.Anıtkabir Tugayı
-- |PAT| Polis Akademisi Teşkilatı
-- 12. Anıtkabir Tugayı
-- | MİT | Milli İstihbarat Teşkilatı > S4rcues
-- Özel Kuvvetler Komutanlığı (Discord Sunucusu) > eziciefe_6 (1154064460370161726)
+71.Anıtkabir Tugayı
+|PAT| Polis Akademisi Teşkilatı
+12. Anıtkabir Tugayı
+| MİT | Milli İstihbarat Teşkilatı > S4rcues
+Özel Kuvvetler Komutanlığı (Discord Sunucusu) | eziciefe_6 (1154064460370161726)
 
 
 
