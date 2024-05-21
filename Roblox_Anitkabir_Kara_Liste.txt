@@ -19,7 +19,8 @@
 ╚════════════════════════════════════════════════════════════════╝
 
 1- Tarayıcınızda bulunan sayfada, "Ctrl + F" tuşlarına basarak arama çubuğunu açabilirsiniz.
-2- Açılan arama çubuğuna aramak istediğiniz kişinin adını veya grubun adını girebilirsiniz.
+2- Açılan arama çubuğuna aramak istediğiniz kişinin adını veya grubun adını girebilirsiniz, girdikten sonra "Enter" tuşuna basarak ilgili kişiye, gruba     
+   ulaşabilirsiniz.
 3- Arama sonuçları sizi doğrudan aradığınız öğeye yönlendirecektir. Liste içinde ilgili kişiyi veya gruptan birini 
    bulabilirsiniz.
 
