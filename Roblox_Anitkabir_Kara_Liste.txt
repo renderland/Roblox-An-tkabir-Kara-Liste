@@ -40,8 +40,6 @@
 ╔════════════════════════════════════════════════════════════════╗
 ║                      KARA LİSTE KİŞİLER                        ║
 ╚════════════════════════════════════════════════════════════════╝
-roblox: BNBEFE
-
 
 roblox: seyit_ork1
 
@@ -63,6 +61,7 @@ discord: 1102621295205679104 ADK / Kurallara Aykırılık / Toxiclik
 roblox: nija_god12345
 roblox: Berat019ks
 roblox: poyrazbozkurtt
+roblox: BNBEFE
 
 discord: 772004778757849118 (ATATÜRK'E HAKARET)
 discord: 1230719298130022512 (otistik)
